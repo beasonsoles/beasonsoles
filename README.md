@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beasonsoles&label=Profile%20views&color=0e75b6&style=flat" alt="beasonsoles" /> </p>
 
-- 🌱 I’m currently learning --> **React Native and SQLite**
+- 🌱 I’m currently learning --> **Angular**
 
 - 👨‍💻 All of my projects are available at --> [https://github.com/beasonsoles](https://github.com/beasonsoles)
 
